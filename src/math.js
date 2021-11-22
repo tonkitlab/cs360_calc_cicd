@@ -4,7 +4,7 @@ const subtract = (x, y) => x - y;
 
 const multiply = (x, y) => x * y;
 
-const divide = (x, y) => x / y;
+const divide = (x, y) => x / 1;
 
 module.exports = {
     add,
