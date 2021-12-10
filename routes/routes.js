@@ -7,7 +7,7 @@ module.exports = function (server) {
         path: '/calculator/about',
         handler: function (request, h) {
             var data = {
-                message: 'Calculator API - made for CS360'
+                message: 'Calculator API - made for CS360. Hello PRAGMA Student Workshop 2021'
             };
             return data;
         }
